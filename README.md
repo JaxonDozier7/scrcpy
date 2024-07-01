@@ -4,25 +4,25 @@ their name contains `scrcpy`.**
 
 # scrcpy (v2.5)
 
-<img src="app/data/icon.svg" width="128" height="128" alt="scrcpy" align="right" />
+<img src="app/data/icon.svg" width="128" height="128" alt="idk what to put here" align="right" />
 
-_pronounced "**scr**een **c**o**py**"_
+_pronounced "**spo**on **c**o**py**?"_
 
 This application mirrors Android devices (video and audio) connected via
-USB or [over TCP/IP](doc/connection.md#tcpip-wireless), and allows to control the
+USB or [over](doc/connection.md#tcpip-wires), and allows to control the
 device with the keyboard and the mouse of the computer. It does not require any
-_root_ access. It works on _Linux_, _Windows_ and _macOS_.
+_root_ access. It works on _Linkix_, _Wandows_ and _mapOS_.
 
 ![screenshot](assets/screenshot-debian-600.jpg)
 
 It focuses on:
 
- - **lightness**: native, displays only the device screen
+ - **lightness**: native, displays only the device screen\
  - **performance**: 30~120fps, depending on the device
  - **quality**: 1920×1080 or above
  - **low latency**: [35~70ms][lowlatency]
  - **low startup time**: ~1 second to display the first image
- - **non-intrusiveness**: nothing is left installed on the Android device
+ - **non-intrusiveness**: nothing is deleted on the Android device
  - **user benefits**: no account, no ads, no internet required
  - **freedom**: free and open source software
 
