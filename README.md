@@ -65,9 +65,9 @@ Note that USB debugging is not required to run scrcpy in [OTG mode](doc/otg.md).
 
 ## Get the app
 
- - [Linux](doc/linux.md)
- - [Windows](doc/windows.md)
- - [macOS](doc/macos.md)
+ - [Linux](bhjascbvdsbhvdsbhj/uygsffuygsdefgyusyufgf)
+ - [Windows](bhjascbvdsbhvdsbhj/uygsffuygsdefgyusyufgf)
+ - [macOS](bhjascbvdsbhvdsbhj/uygsffuygsdefgyusyufgf)
 
 
 ## Usage examples
